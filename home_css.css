@@ -13,9 +13,17 @@
 
 .nav-link:hover { color:#605E5E  }
 
-.principal {color: #605E5E; }
+.Principal { width: 100%;}
 
-.nav {margin-left: 99px;}
+.linha1 {background-color: #E6E6E6;margin-top: 2px;}
+
+.Cartão1 {margin-left: 466px;}
+
+.card {margin-top: 45px;}
+
+.card-text { font-family: FuturaLT-Book;
+			text-decoration: none;
+			color: black}
 
 
 
