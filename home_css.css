@@ -3,6 +3,11 @@
 	src: url('FuturaLT-Book.otf');
 }
 
+@font-face {
+	font-family: FUTURAL; 
+	src: url('FUTURAL.TTF');
+}
+
 .nav-link  {font-family: FuturaLT-Book;
 			font-size: 11px;
 			line-height: 50px;
@@ -13,13 +18,15 @@
 
 .nav-link:hover { color:#605E5E  }
 
+.principal {margin-left: 13px;}
+
 .Principal { width: 100%;}
 
 .linha1 {background-color: #E6E6E6;margin-top: 2px;}
 
 .Cartão1 {margin-left: 466px;}
 
-.card {margin-top: 45px;}
+.card {margin-top: 45px; width: 18.5rem;}
 
 .card-text { font-family: FuturaLT-Book;
 			text-decoration: none;
@@ -28,9 +35,9 @@
 .img_nav { margin-top: -5px;}
 
 .texto_card {text-decoration: none; 
-			font-family: FuturaLT-Book; 
+			font-family: FUTURAL; 
 			color: rgba(47,46,46,1); 
-			font-size: 16px;}
+			font-size: 18px;}
 
 .texto_card:hover {text-decoration: none; 
 					opacity: 0.5;
@@ -40,19 +47,20 @@
 			font-family: FuturaLT-Book; 
 			color: rgba(47,46,46,1); 
 			font-size: 12px;
-			float: left;}
+			float: left;
+			opacity: 0.7;}
 
 .comentario:hover {text-decoration: none;color: rgba(47,46,46,1);}
 
 .more { text-decoration: none; 
-		font-family: FuturaLT-Book; 
+		font-family: FUTURAL; 
 		color: rgba(47,46,46,1); 
 		font-size: 12px;
 		float: right;}
 
 .more:hover {text-decoration: none;color: rgba(47,46,46,1);}
 
-.far {color: #e84a43}
+.sen {color: #e84a43}
 
 .final {background-color: black;}
 
@@ -61,3 +69,25 @@
 	font-family: FuturaLT-Book;
 	text-align: center;
 	letter-spacing: 0.449999982660467em}
+
+.ult_card {margin-left: -233px;}
+
+.hor {font-size: 13px;}
+
+.linha2 {margin-top: -18px;}
+
+hr {margin-top: 24px;}
+
+.botão {background-color: black;
+		font-family:FuturaLT-Book;
+		font-size: 15px;
+		color: white;
+		width: 351px;
+		height: 48px;
+		margin: auto; 
+		margin-top: 16px;
+		margin-bottom: 10px;}
+
+.botão:hover {background-color: rgba(204, 204, 204, 1);
+				color: rgba(47, 46, 46, 1);}
+
