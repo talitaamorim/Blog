@@ -1,0 +1,19 @@
+@font-face {
+	font-family: FuturaLT-Book; 
+	src: url('FuturaLT-Book.otf');
+}
+
+@font-face {
+	font-family: FUTURAL; 
+	src: url('FUTURAL.TTF');
+}
+
+.nav-link  {font-family: FuturaLT-Book;
+			font-size: 11px;
+			line-height: 50px;
+			color: #CCCCCC;
+			position: relative;
+			letter-spacing: 0.5px;
+			padding-right: 40px;}
+
+.nav-link:hover { color:#605E5E  }

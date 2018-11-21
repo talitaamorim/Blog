@@ -68,7 +68,8 @@
 	font-size: 15px;
 	font-family: FuturaLT-Book;
 	text-align: center;
-	letter-spacing: 0.449999982660467em}
+	letter-spacing: 0.449999982660467em;
+	margin-top: 40px;}
 
 .ult_card {margin-left: -233px;}
 
@@ -78,16 +79,42 @@
 
 hr {margin-top: 24px;}
 
-.botão {background-color: black;
+.botão {background-color: rgba(47, 46, 46, 1);;
 		font-family:FuturaLT-Book;
 		font-size: 15px;
 		color: white;
 		width: 351px;
 		height: 48px;
 		margin: auto; 
-		margin-top: 16px;
+		margin-top: 20px;
 		margin-bottom: 10px;}
 
 .botão:hover {background-color: rgba(204, 204, 204, 1);
 				color: rgba(47, 46, 46, 1);}
 
+.texto_sem { letter-spacing: 0.25em;
+			line-height: 1.4em;
+			color: #2F2E2E;
+			font-size: 11px;
+			font-family: FUTURAL;
+			margin-left: 465px;
+			margin-top: 30px;}
+
+.foto_1 {margin-left: 460px;}
+
+.foto_2 {margin-left: -475px;}
+
+
+.aa {background-image: url(IMG/Céu.png)}
+.aa:hover {background-image: url(IMG/Céu_hover.png);}
+
+.bb {background-image: url(IMG/Friends.png)}
+.bb:hover {background-image: url(IMG/Friends_hover.png);}
+
+.cc {background-image: url(IMG/details.png)}
+.cc:hover {background-image: url(IMG/details_hover.png);}
+
+.dd {background-image: url(IMG/ela.png)}
+.dd:hover {background-image: url(IMG/ela_hover.png);}
+
+.please {margin-left: 460px; margin-top: 20px;}
