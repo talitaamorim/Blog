@@ -17,3 +17,35 @@
 			padding-right: 40px;}
 
 .nav-link:hover { color:#605E5E  }
+
+.carrinho {margin-left: 100px; 
+			margin-top: 15px;}
+
+.carro1 {margin-left: 645px;}
+
+.all {	font-family: FUTURAL; 
+		font-size: 14px;
+		color: rgba(160,160,159,1);
+		text-decoration: none;
+		margin-left: 467px;}
+
+.all:hover {color: rgba(160,160,159,1);
+			text-decoration:none; }
+
+.oi {margin-top: 42px;}
+
+.fa-search {margin-left: 413px;
+			font-size: 13px;}
+
+.fa-ellipsis-v {font-size: 13px; margin-left: 85px;}
+
+.texto_card1 {text-decoration: none; 
+			font-family: FUTURAL; 
+			color: rgba(47,46,46,1); 
+			font-size: 22px;}
+
+.texto_card1:hover {text-decoration: none; 
+					opacity: 0.5;
+					color: rgba(47,46,46,1); }
+
+.Cartão2 {margin-left: 480px;}
