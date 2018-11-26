@@ -37,15 +37,35 @@
 .fa-search {margin-left: 413px;
 			font-size: 13px;}
 
-.fa-ellipsis-v {font-size: 13px; margin-left: 85px;}
+.fa-ellipsis-v {font-size: 13px; margin-left: 70px; margin-top: 5px;}
 
 .texto_card1 {text-decoration: none; 
 			font-family: FUTURAL; 
 			color: rgba(47,46,46,1); 
-			font-size: 22px;}
+			font-size: 22px;
+		 	margin-top: 10px;}
 
 .texto_card1:hover {text-decoration: none; 
 					opacity: 0.5;
 					color: rgba(47,46,46,1); }
 
-.Cartão2 {margin-left: 480px;}
+.Cartão2 {margin-left: 466px;}
+
+.more1 { text-decoration: none; 
+		font-family: FUTURAL; 
+		color: rgba(47,46,46,1); 
+		font-size: 12px;
+		float: right;
+		 margin-left: 80px;}
+
+.more1:hover {text-decoration: none;color: rgba(47,46,46,1);}
+
+.altura {width: 238px;}
+
+.por {margin-top: 10px;}
+
+.linha3 {margin-top: 30px;}
+
+.sei {margin-left: 10px;}
+
+.por1 {margin-top: -1px;}
