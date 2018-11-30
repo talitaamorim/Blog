@@ -1,0 +1,7 @@
+.Foto_loja {margin-left: -110px;}
+
+.beauty {background-image: url(IMG/Livro1.png); margin-left: 500px; margin-top: 40px; margin-bottom: 40px;}
+.beauty:hover {background-image: url(IMG/Livro1_click.png);}
+
+.compa {background-image: url(IMG/Livro2.png);margin-top: 40px; margin-bottom: 40px;}
+.compa:hover {background-image: url(IMG/Livro2_click.png);}
